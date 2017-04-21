@@ -30,7 +30,4 @@ What do you think?
 * Plus ice cream should be involved.
 * I don't like cats anyway.
 
-### P.S. 
-* I really hate cats.
-
 
