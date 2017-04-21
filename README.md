@@ -25,3 +25,6 @@ Hey Clair, I think what we should do is
 * Make fun of his cat
 * Be late back to work
 What do you think?
+
+#Agreed
+Plus ice cream should be involved.
