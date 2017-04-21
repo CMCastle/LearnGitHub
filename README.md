@@ -26,5 +26,8 @@ Hey Clair, I think what we should do is
 * Be late back to work
 What do you think?
 
-#Agreed
-Plus ice cream should be involved.
+# Agreed
+* Plus ice cream should be involved.
+* I don't like cats anyway.
+
+
