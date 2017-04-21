@@ -16,3 +16,12 @@ This project requires a computer and internet.
 
 ## Plan for the first party
 Get going with FB.
+
+
+# Craig's ideas
+Hey Clair, I think what we should do is 
+* meet for lunch
+* gossip about Simon
+* Make fun of his cat
+* Be late back to work
+What do you think?
